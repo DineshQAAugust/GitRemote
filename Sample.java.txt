@@ -1,0 +1,25 @@
+class Test{
+
+int x,y;
+
+
+public void test(){
+System.out.println("Hii....");
+
+
+}
+
+public static void main(String[] args){
+
+Test test = new Test();
+
+test.x = 10;
+test.y = 15;
+
+test.test();
+
+
+}
+
+
+}
